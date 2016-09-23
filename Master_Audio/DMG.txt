@@ -1,0 +1,22 @@
+01_tink: Tapping the side of a glass bottle.
+02_click: Tapping the metal cap of an empty glass bottle.
+03_click: ""
+04_clock: Lightly tapping a glass bottle against a wooden table.
+06_clock_flam: Putting a glass bottle down on a wooden table.
+07_hiss_nofade: Pushing a large metal can along the surface of a wooden table.
+08_tong_ambientspeech: Flicking the side of a half-filled metal can in a noisy room.
+09_tong: The above, with less noise.
+10_sshtack: Flicking the tab on a metal can.
+11_clockclockclock: Moving a metal can along on the surface of a table.
+12_click: Tapping the side of a glass bottle.
+13_taang: Tapping the side of a metal can.
+14_dahdit: Putting a metal can down on a table.
+15_trill: Quickly shuffling a metal can along a table.
+BG_nophaser: Ambient background audio recorded in the Union. I cut out some of the high frequencies so that it didn't compete with the percussion and looped it a few times by fading it into itself so that the loop wasn't as apparent.
+BG_phaser: The above sound but with a phaser effect.
+
+Demo_Sequence: A non-interactive version of the percussion composition.
+iterative: An unused track, based on the use of canons in compositon. One melodic phrase for each intended looping section.
+
+All samples were used to create a short percussion composition -- upon picking up one of the cubes scattered about the landscape, a loop composed of a single repeated sample is added onto the current background audio.
+Not included in the game was a composition based on creating a melody with one of the pitched sounds and playing that same melody over itself, iteratively offsetting the second melody by x amount of beats.
